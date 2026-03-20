@@ -18,7 +18,7 @@ The dataset consists of Four tables namely;
 - Geography; Holds geographical details.
 
 ## Sample SQL concepts covered
-- The SELECT statement usage
+- Comprehensive SELECT statement use
 - Sorting and Filtering
 - Aggregations
 - Date functions
