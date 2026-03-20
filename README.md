@@ -1,4 +1,4 @@
-# Chocolate Sales Analytics Project Using-MySQL
+# Chocolate Sales Analytics Project (MySQL)
 This is a sales analysis project of a startup chocolate company (Blessed Chocolate Store) using MySQL. The goal is to extract key insights from the sales data to enable the CEO and business stakeholders in long term evaluation of the business and support informed decision-making processes.
 
 ## Blessed Chocolate Store Business Objectives;
