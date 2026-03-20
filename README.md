@@ -27,6 +27,8 @@ The dataset consists of Four tables namely;
 - Joining of data tables
 
 ## Deliverables
+- Retrieval of data based on certain conditions
+- Updated the Database, renamed tables and columns
 - Grouped data into categories i.e from Low to high.
 - Identified best performing salespeople based sales made.
 
